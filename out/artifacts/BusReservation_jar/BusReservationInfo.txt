@@ -1,0 +1,4 @@
+Booked tickets!
+ - 22.04 Jaslo - Krosno 7zl - Price of your ticket will be discounted 20% - Liczba pasa¿erów: 6
+ - 22.04 Rzeszow - Jaslo 15zl - Normal price of your tickets - Liczba pasa¿erów: 2
+ - 22.04 Rzeszow - Jaslo 15zl - Price of your ticket will be discounted 20% - Liczba pasa¿erów: 2
